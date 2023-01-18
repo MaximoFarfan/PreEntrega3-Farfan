@@ -1,0 +1,5 @@
+fondo #D7D2C1
+fondo 2 #FFD859
+texto principal amarillo 
+texto #172c66
+
